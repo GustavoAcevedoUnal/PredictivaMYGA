@@ -1,4 +1,3 @@
 # PredictivaMYGA
 
-Hola
-Hola
+https://gustavoacevedounal.github.io/PredictivaMYGA/#
